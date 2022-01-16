@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-import requests
-import sys
+import requests, sys, time
 import pytermgui as gui
 from pytermgui import WindowManager, Window
 import time
